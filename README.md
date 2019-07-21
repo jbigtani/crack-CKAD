@@ -3,7 +3,9 @@ A four week plan for beginners to crack CKAD (Certified Kubernetes Application D
 I have prepared this course based on my own Kubernetes certification that I completed in four weeks. 
 
 ### Background
-CKAD is certification exam from CNCF focussing on Kubernetes application developers. Its a subjective exam and so requires you to be comfortable with kubectl commands. You are allowed to refer to official Kuberternes doc for yaml and commands. It does not ask you set up Kubernetes cluster since its admin job so you can skip admin related tasks whiel going through study materials.  
+CKAD is certification exam from CNCF focussing on Kubernetes application developers. Its a subjective exam and so requires you to be comfortable with kubectl commands. You are allowed to refer to official Kuberternes doc for yaml and commands. It does not ask you set up Kubernetes cluster since its admin job so you can skip admin related tasks whiel going through study materials. 
+
+While preparing this I kept course fee also in mind. There are two suggested Udemy paid courses which together cost me INR 1000/- which I felt definitely worth. 
 
 ### Pre-requisities
 There is no pre-requisites apart from software development experience. 
@@ -16,7 +18,7 @@ This is put based on 2-3 hours daily study. I have advised time split against ea
 This week focus on building concepts. I found following course on Udemy great to start with. 
 - [Learn DevOps: The Complete Kubernetes Course](https://www.udemy.com/learn-devops-the-complete-kubernetes-course/)
 
-You can skip section 5 onwards completely. You can also skip later section of 4 since it is admin related.
+You need to cover upto section 3 only and some part of section 4 like ResourceQuota, namespaces and Networking. You can skip rest.
 
 ## Week 2 (Concept -50%, Pratice - 50%)
 For this week you should continue to build concept while increaing your practice time.
@@ -48,12 +50,17 @@ For final revision, I would advise going through following free resources.
 - [Liveness and Readiness Healthchecks](https://www.katacoda.com/courses/kubernetes/liveness-readiness-healthchecks)
 - [Use Kubernetes To Manage Secrets And Passwords](https://www.katacoda.com/courses/kubernetes/managing-secrets)
 
-#### Concepts - Free course - [Introduction to Kubernetes](https://courses.edx.org/courses/course-v1:LinuxFoundationX+LFS158x+2T2019/course/)   -- Chapter 8 to Chapter 13
-
-#### Kubernetes Official Doc
-
-You should take time this week to go through official doc since it is available to you during the exam. Familiarity with pages will help you find command or yaml faster during exam. 
+#### Free Practice labs on Kubernetes Official doc
 - [Free tutorial on Kubernetes basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/)
+
+#### Free course to revise concepts 
+- [Introduction to Kubernetes](https://courses.edx.org/courses/course-v1:LinuxFoundationX+LFS158x+2T2019/course/)   
+
+Focus on **Chapter 8** to **Chapter 13**
+
+- Kubernetes Official Doc
+
+You should take time this week to go through official doc since it is available to you during the exam. Familiarity with pages will help you find command or yaml faster during exam.
 
 I would also advise keeping bookmark for these two pages for command reference. 
 - [kubectl Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
