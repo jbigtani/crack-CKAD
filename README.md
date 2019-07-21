@@ -1,4 +1,4 @@
-# crack-CKAD
+# Crack CKAD
 A four week plan for beginners to crack CKAD (Certified Kubernetes Application Developer) exam by Cloud Native Computing Foundation.
 I have prepared this course based on my own Kubernetes certification that I completed in four weeks. 
 
@@ -40,15 +40,15 @@ You should feel good to schedule an exam for next week.
 For final revision, I would advise going through following free resources.
 
 #### Practice labs on Katacoda
-https://www.katacoda.com/courses/kubernetes/launch-single-node-cluster
-https://www.katacoda.com/courses/kubernetes/kubectl-run-containers
-https://www.katacoda.com/courses/kubernetes/creating-kubernetes-yaml-definitions
-https://www.katacoda.com/courses/kubernetes/guestbook
-https://www.katacoda.com/courses/kubernetes/networking-introduction
-https://www.katacoda.com/courses/kubernetes/storage-introduction
-https://www.katacoda.com/courses/kubernetes/liveness-readiness-healthchecks
-https://www.katacoda.com/courses/kubernetes/managing-secrets
+- [Launch single node Cluster](https://www.katacoda.com/courses/kubernetes/launch-single-node-cluster)
+- https://www.katacoda.com/courses/kubernetes/kubectl-run-containers
+- https://www.katacoda.com/courses/kubernetes/creating-kubernetes-yaml-definitions
+- https://www.katacoda.com/courses/kubernetes/guestbook
+- https://www.katacoda.com/courses/kubernetes/networking-introduction
+- https://www.katacoda.com/courses/kubernetes/storage-introduction
+- https://www.katacoda.com/courses/kubernetes/liveness-readiness-healthchecks
+- https://www.katacoda.com/courses/kubernetes/managing-secrets
 
 #### Revision - Concepts
-https://courses.edx.org/courses/course-v1:LinuxFoundationX+LFS158x+2T2019/course/   -- Chapter 8 to Chapter 13
+- https://courses.edx.org/courses/course-v1:LinuxFoundationX+LFS158x+2T2019/course/   -- Chapter 8 to Chapter 13
 
