@@ -3,9 +3,9 @@ A four week plan for beginners to crack [Certified Kubernetes Application Develo
 I have prepared this course based on my own Kubernetes certification that I completed in four weeks. 
 
 ### Background
-CKAD is certification exam from CNCF focussing on Kubernetes application developers. Its a subjective exam and so requires you to be comfortable with kubectl commands. You are allowed to refer to official Kuberternes doc for yaml and commands. It does not ask you set up Kubernetes cluster since its admin job so you can skip admin related tasks whiel going through study materials. 
+CKAD is certification exam from CNCF focussing on Kubernetes application developers. Its a subjective exam and so requires you to be comfortable with kubectl commands. You are allowed to refer to official Kuberternes doc for yaml and commands. It does not ask you set up Kubernetes cluster since its admin job so you can skip admin related tasks while going through study materials. 
 
-While preparing this I kept course fee also in mind. There are two suggested Udemy paid courses which together cost me INR 1000/- which I felt definitely worth. 
+While preparing this course, I kept cost also in mind. There are two suggested Udemy paid courses which together cost me INR 1000/- which I felt it's definitely worth. 
 
 ### Pre-requisities
 There is no pre-requisites apart from software development experience. 
@@ -18,7 +18,7 @@ This is put based on 2-3 hours daily study. I have advised time split against ea
 This week focus on building concepts. I found following course on Udemy great to start with. 
 - [Learn DevOps: The Complete Kubernetes Course](https://www.udemy.com/learn-devops-the-complete-kubernetes-course/)
 
-You need to cover upto section 3 only and some part of section 4 like ResourceQuota, namespaces and Networking. You can skip rest.
+You need to cover upto section 3 only and some part of section 4 like ResourceQuota, Namespaces and Networking. You can skip rest.
 
 ## Week 2 (Concept -50%, Pratice - 50%)
 For this week you should continue to build concept while increaing your practice time.
@@ -32,10 +32,11 @@ Spend this week doing
 
 Make sure you do it yourself and type out the solution before checking the anwsers given.
 Now you have gone through the whole CKAD curriculum, concepts and done enough hands-on.
-You can take now following. 
+You can take following challenge now. 
 - [Kubernetes Challenge](https://kodekloud.com/p/practice-test-kubernetes-challenge-1-wordpress)
 
-You should feel good to schedule an exam for next week. 
+If you did well in challenge, you should feel good to schedule the exam for next week.
+Please note actual exam is much difficult than this challenge so make sure you make good use of coming week.
 
 ## Week 4 (Revision, Exam preparation)
 For final revision, I would advise going through following free resources.
@@ -62,7 +63,7 @@ Focus on **Chapter 8** to **Chapter 13**
 
 You should take time this week to go through official doc since it is available to you during the exam. Familiarity with pages will help you find command or yaml faster during exam.
 
-I would also advise keeping bookmark for these two pages for command reference. 
+I would also advise keeping bookmarks for these two pages for command reference. 
 - [kubectl Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
 - [kubectl Command Reference](https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands)
 
