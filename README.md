@@ -56,7 +56,8 @@ For final revision, I would advise going through following free resources.
 
 #### Free course to revise concepts 
 - [Introduction to Kubernetes](https://courses.edx.org/courses/course-v1:LinuxFoundationX+LFS158x+2T2019/course/) .
-    Focus on **Chapter 8** to **Chapter 13**
+    This is free course referred on [official CNCF training page](https://www.cncf.io/certification/training/) so why not make use of it.
+    Focus on **Chapter 8** to **Chapter 13**. 
 
 - [Kubernetes Official Doc](https://kubernetes.io/docs/home/).
     You should take time this week to go through official doc since it is available to you during the exam. Familiarity with pages will help you find command or yaml faster during exam.
