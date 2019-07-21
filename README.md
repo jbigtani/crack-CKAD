@@ -39,7 +39,7 @@ You should feel good to schedule an exam for next week.
 
 For final revision, I would advise going through following free resources.
 
-#### Practice labs on Katacoda
+#### Free Practice labs on Katacoda
 - [Launch single node Cluster](https://www.katacoda.com/courses/kubernetes/launch-single-node-cluster)
 - https://www.katacoda.com/courses/kubernetes/kubectl-run-containers
 - https://www.katacoda.com/courses/kubernetes/creating-kubernetes-yaml-definitions
@@ -49,6 +49,16 @@ For final revision, I would advise going through following free resources.
 - https://www.katacoda.com/courses/kubernetes/liveness-readiness-healthchecks
 - https://www.katacoda.com/courses/kubernetes/managing-secrets
 
-#### Revision - Concepts
-- https://courses.edx.org/courses/course-v1:LinuxFoundationX+LFS158x+2T2019/course/   -- Chapter 8 to Chapter 13
+#### Concepts - Free course - [Introduction to Kubernetes](https://courses.edx.org/courses/course-v1:LinuxFoundationX+LFS158x+2T2019/course/)   -- Chapter 8 to Chapter 13
 
+#### Kubernetes Official Doc
+
+You should take time this week to go through official doc since it is available to you during the exam. Familiarity with pages will help you find command or yaml faster during exam. 
+- [Free tutorial on Kubernetes basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/)
+
+I would also advise keeping bookmark for these two pages for command reference. 
+- [kubectl Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
+- [kubectl Command Reference](https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands)
+
+With this you should be ready for exam. 
+All the best!!!
