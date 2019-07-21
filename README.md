@@ -15,6 +15,7 @@ This is put based on 2-3 hours daily study. I have advised time split against ea
 ## Week 1 (Concept - 80%, Practice - 20%)
 This week focus on building concepts. I found following course on Udemy great to start with. 
 - [Learn DevOps: The Complete Kubernetes Course](https://www.udemy.com/learn-devops-the-complete-kubernetes-course/)
+
 You can skip section 5 onwards completely. You can also skip later section of 4 since it is admin related.
 
 ## Week 2 (Concept -50%, Pratice - 50%)
@@ -24,10 +25,14 @@ Following course on Udemy provides a good platform for you to practice. After in
 
 ## Week 3 (Concept - 20%, Practice - 80%)
 Now its enough of concepts now and time to go full time into hands on exercises. 
-Spend this week doing - [CKAD exercises](https://github.com/dgkanatsios/CKAD-exercises). 
+Spend this week doing 
+- [CKAD exercises](https://github.com/dgkanatsios/CKAD-exercises)
+
 Make sure you do it yourself and type out the solution before checking the anwsers given.
 Now you have gone through the whole CKAD curriculum, concepts and done enough hands-on.
-You can take now following. - [Kubernetes Challenge](https://kodekloud.com/p/practice-test-kubernetes-challenge-1-wordpress)
+You can take now following. 
+- [Kubernetes Challenge](https://kodekloud.com/p/practice-test-kubernetes-challenge-1-wordpress)
+
 You should feel good to schedule an exam for next week. 
 
 ## Week 4 (Revision, Exam preparation)
