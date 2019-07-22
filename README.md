@@ -26,8 +26,8 @@ Following course on Udemy provides a good platform for you to practice. After in
 - [Kubernetes Certified Application Developer (CKAD) with Tests](https://www.udemy.com/certified-kubernetes-application-developer)
 
 ## Week 3 (Concept - 20%, Practice - 80%)
-Now it's enough of concepts now and time to go full time into hands on exercises. 
-Spend this week doing 
+It's time now to go full time into hands on exercises. 
+Spend this week doing following exercises. 
 - [CKAD exercises](https://github.com/dgkanatsios/CKAD-exercises)
 
 Make sure you do it yourself and type out the solution before checking the answers given.
@@ -39,7 +39,7 @@ If you did well in challenge, you should feel good to schedule the exam for next
 Please note actual exam is much difficult than this challenge so make sure you make good use of the coming week.
 
 ## Week 4 (Revision, Exam preparation)
-For final revision, I would advise going through following free resources.
+For final revision, I would advise going through following additional free resources.
 
 #### Free Practice labs on Katacoda
 - [Launch A Single Node Cluster](https://www.katacoda.com/courses/kubernetes/launch-single-node-cluster)
