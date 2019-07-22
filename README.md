@@ -5,7 +5,7 @@ I have prepared this course based on my own Kubernetes certification that I comp
 ### Background
 CKAD is the certification exam from CNCF focusing on Kubernetes application developers. It's a subjective exam so requires you to be comfortable with kubectl commands. You are allowed to refer to official Kuberternes document for yaml and commands. It does not ask you to set up Kubernetes cluster since it's an admin job so you can skip admin related tasks while going through study materials. 
 
-While preparing for this course, I kept cost also in mind. There are two suggested Udemy paid courses which together cost me INR 1000/- which I felt it's definitely worth. 
+While preparing for this course, I have kept cost also in mind. There are two suggested Udemy paid courses which together cost me INR 1000/- which I felt it's definitely worth. 
 
 ### Prerequisites
 There are no prerequisites required apart from software development experience. 
