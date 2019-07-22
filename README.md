@@ -3,7 +3,7 @@ A four week plan for beginners to crack [Certified Kubernetes Application Develo
 I have prepared this course based on my own Kubernetes certification that I completed in four weeks. 
 
 ### Background
-CKAD is the certification exam from CNCF focusing on Kubernetes application developers. It's a subjective exam so requires you to be comfortable with kubectl commands. You are allowed to refer to official Kuberternes document for yaml and commands. It does not ask you to set up Kubernetes cluster since it's an admin job so you can skip admin related tasks while going through study materials. 
+CKAD is the certification exam from CNCF focusing on Kubernetes application developers. It's a subjective exam so requires you to be comfortable with kubectl commands. You are allowed to refer to official Kuberternes document for yaml and commands. It does not ask you to set up Kubernetes cluster since it's an admin job so you can skip admin related tasks while going through study materials. There is separate [CKA exam](https://www.cncf.io/certification/cka/) for administrators. 
 
 While preparing for this course, I have kept cost also in mind. There are two suggested Udemy paid courses which together cost me INR 1000/- which I felt it's definitely worth. 
 
