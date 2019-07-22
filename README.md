@@ -38,7 +38,7 @@ You can take following challenge now.
 If you did well in challenge, you should feel good to schedule the exam for next week.
 Please note actual exam is much difficult than this challenge so make sure you make good use of the coming week.
 
-## Week 4 (Revision, Exam preparation)
+## Week 4 (Practice, Revision)
 For final revision, I would advise going through following additional free resources.
 
 #### Free Practice labs on Katacoda
