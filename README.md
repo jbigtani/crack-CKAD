@@ -33,7 +33,7 @@ Spend this week doing following exercises.
 Make sure you do it yourself and type out the solution before checking the answers given.
 Now you have gone through the whole CKAD curriculum, concepts and done enough hands-on.
 You can take following challenge now. 
-- [Kubernetes Challenge](https://kodekloud.com/p/practice-test-kubernetes-challenge-1-wordpress)
+- [Kubernetes Challenge](https://kodekloud.com/courses/438996/lectures/8414630)
 
 If you did well in challenge, you should feel good to schedule the exam for next week.
 Please note actual exam is much difficult than this challenge so make sure you make good use of the coming week.
